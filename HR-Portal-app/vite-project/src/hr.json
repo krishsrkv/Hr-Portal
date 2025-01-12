@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "Developer"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "role": "Designer"
+  },
+  {
+    "id": 3,
+    "name": "Sam Wilson",
+    "email": "sam.wilson@example.com",
+    "role": "Project Manager"
+  },
+  {
+    "id": 4,
+    "name": "Lucy Brown",
+    "email": "lucy.brown@example.com",
+    "role": "HR Manager"
+  }
+]
